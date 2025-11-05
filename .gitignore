@@ -1,0 +1,17 @@
+# secrets
+.env
+.env.*
+gcp.json
+*.pem
+*.p12
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
